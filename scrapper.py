@@ -15,6 +15,8 @@ PROXY =  "proxy.soax.com:10002"
 PATH = "./chromedriver"
 options = webbrowser.ChromeOptions()
 options.add_argument('proxy.soax.com'.format(PROXY))
+driver = webdriver.Chrome(service = Service(PATH),options=options)
+
 
 
 
