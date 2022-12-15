@@ -23,11 +23,7 @@ Instagram Scraper using SOAX Residential Proxies. A scraper is a tool or piece o
 
 
 
-Install Chrome web driver
-setup virtual environment
-login instagram by targeting usename and password and login button
 
-target search box and clear it. and enter details into it. 
 
 
 
